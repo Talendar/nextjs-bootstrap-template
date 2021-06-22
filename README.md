@@ -42,5 +42,5 @@ Here are some useful links:
 You might see some deprecation warnings when the Sass code is first compiled to CSS - just ignore them. They should appear
 only once.
 
-You might also see NPM complaining about unmet dependencies for Bootstrap (jQuery and Popper). You can also ignore this,
+You might also see NPM complaining about unmet dependencies for Bootstrap (jQuery and Popper). You can also ignore those warnings,
 since you'll be using React-Bootstrap components.
