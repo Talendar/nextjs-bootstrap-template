@@ -1,4 +1,4 @@
-This is a template of a [Next.js](https://nextjs.org/) project that uses [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap).
+This is a template for a [Next.js](https://nextjs.org/) project that uses [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap).
 
 To use it, create your app using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app):
 
